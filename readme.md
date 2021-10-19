@@ -2,6 +2,7 @@
 
 - Create a file `data.json` and add data in the following format:
 <br>
+
 ```json
 {
   "count": number,
