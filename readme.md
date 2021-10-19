@@ -12,9 +12,11 @@
     {
       "value_exc_vat": number,
       "value_inc_vat": number,
-      "valid_from": date,
-      "valid_to": date,
+      "valid_from": string,
+      "valid_to": string,
     }
   ]
 }
 ```
+
+dates are of format `year-month-daysTtimeInUtcZ`
