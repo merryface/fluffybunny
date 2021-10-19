@@ -20,4 +20,5 @@
 ```
 
 dates are of format `year-month-daysTtimeInUtcZ`
+<br>
 example: `2021-06-17T12:00:00:00Z`
