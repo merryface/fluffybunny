@@ -1,6 +1,6 @@
 # Energy Bill Functions
 
-- Create a file `data.json` and add data in the following format:
+- Create or import a json file and name it `data.json` to add data in the following format:
 <br>
 
 ```json
